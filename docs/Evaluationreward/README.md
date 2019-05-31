@@ -1,2 +1,2 @@
-# 评价和打赏管理（Evaluationreward.php）
+# 评价和打赏管理
 
