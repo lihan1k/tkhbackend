@@ -1,9 +1,9 @@
 # 会员评价
 
-valuate() 首页
+1. valuate() 首页
 
-valuate_time（）时间筛选
+2. valuate_time（）时间筛选
 
-detail_search（）条件搜索
+3. detail_search（）条件搜索
 
-valuate_download（）下载excel
+4. valuate_download（）下载excel

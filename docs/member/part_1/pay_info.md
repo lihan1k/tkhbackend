@@ -1,9 +1,9 @@
 # 线下会员支付
 
-pay_info（）首页
+1. pay_info（）首页
 
-vips（）获取会员信息
+2. vips（）获取会员信息
 
-vip_update（）更新会员信息
+3. vip_update（）更新会员信息
 
-vip_info（）支付
+4. vip_info（）支付

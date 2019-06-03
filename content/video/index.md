@@ -1,10 +1,11 @@
 # 课程设置
 
-index（）首页
+1. index（）首页
 
-updatevideo（）审核视频
+2. updatevideo（）审核视频
 
-video_save（）提交
+3. video_save（）提交
 
-del_video（）删除视频
+4. del_video（）删除视频
+
 

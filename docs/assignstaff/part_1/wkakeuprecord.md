@@ -1,10 +1,11 @@
 # 唤醒消费记录
 
-wakeuprecord（）首页
+1. wakeuprecord（）首页
 
-seach（）搜索
+2. seach（）搜索
 
-gosearch（）切换时间段
+3. gosearch（）切换时间段
 
-btnsch（）自定义时间搜索
+4. btnsch（）自定义时间搜索
+
 

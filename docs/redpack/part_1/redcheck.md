@@ -1,11 +1,11 @@
 # 红包发放记录
 
-redcheck（）首页
+1. redcheck（）首页
 
-redcheck_seach（）搜索
+2. redcheck_seach（）搜索
 
-redoper（）时间段选择
+3. redoper（）时间段选择
 
-download（）下载excel
+4. download（）下载excel
 
-redcheck_getmore（）加载更多
+5. redcheck_getmore（）加载更多

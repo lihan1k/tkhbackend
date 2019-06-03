@@ -1,27 +1,27 @@
 # 会员资料
 
-baseinfo() 首页
+1. baseinfo() 首页
 
-getuser（）会员筛选
+2. getuser（）会员筛选
 
-search（）会员详情
+3. search（）会员详情
 
-card_select（） 会员卡券持有详情
+4. card_select（） 会员卡券持有详情
 
-pj_select（）会员评价详情
+5. pj_select（）会员评价详情
 
-pay_getmore（）加载更多消费记录
+6. pay_getmore（）加载更多消费记录
 
-chuzhi_getmore（）加载更多储值记录
+7. chuzhi_getmore（）加载更多储值记录
 
-hxcard_getmore（）加载更多核销记录
+8. hxcard_getmore（）加载更多核销记录
 
-itemcard_jzgd（）加载更多转赠记录
+9. itemcard_jzgd（）加载更多转赠记录
 
-userinfo() 修改会员信息
+10. userinfo() 修改会员信息
 
-reply_customer（）发送文本消息
+11. reply_customer（）发送文本消息
 
-send（）发送短信
+12. send（）发送短信
 
-send_meassge（）发送卡券
+13. send_meassge（）发送卡券

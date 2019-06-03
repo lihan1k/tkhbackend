@@ -1,7 +1,7 @@
 # 点对点精准营销
 
-ptop（）首页
+1. ptop（）首页
 
-getcard()获取门店卡券
+2. getcard()获取门店卡券
 
-send_cards()发送卡券
+3. send_cards()发送卡券

@@ -1,5 +1,5 @@
 # 红包预存设置
 
-savered（）首页
+1. savered（）首页
 
-updates（）编辑保存
+2. updates（）编辑保存

@@ -1,8 +1,9 @@
 # 红包明细
 
-detail（）首页
+1. detail（）首页
 
-openserach（）搜索
+2. openserach（）搜索
 
-redoper（）选择时间段
+3. redoper（）选择时间段
+
 

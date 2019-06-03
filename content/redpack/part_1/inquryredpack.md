@@ -1,5 +1,5 @@
 # 红包余额查询
 
-inquryredpack（）首页
+1. inquryredpack（）首页
 
-redsearch（）搜索
+2. redsearch（）搜索

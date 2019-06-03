@@ -1,9 +1,9 @@
 # 充值送现金卡券报表
 
-recharge_cardreport（）首页
+1. recharge_cardreport（）首页
 
-cash_stored（）搜索
+2. cash_stored（）搜索
 
-cash_summary_download（）下载excel
+3. cash_summary_download（）下载excel
 
-cash_summary（）加载更多
+4. cash_summary（）加载更多

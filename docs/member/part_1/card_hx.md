@@ -1,7 +1,7 @@
 # 卡券核销
 
-card_hx（）首页
+1. card_hx（）首页
 
-cardhx（）搜索
+2. cardhx（）搜索
 
-verify（）核销
+3. verify（）核销

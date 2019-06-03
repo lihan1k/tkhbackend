@@ -1,8 +1,9 @@
 # 分销员统计报表
 
-cashform（）首页
+1. cashform（）首页
 
-cashform_search（）搜索
+2. cashform_search（）搜索
 
-card/gettime（）选择时间段
+3. card/gettime（）选择时间段
+
 

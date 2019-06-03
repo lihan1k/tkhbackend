@@ -1,9 +1,9 @@
 # 回头智能唤醒
 
-smartwakeup（）首页
+1. smartwakeup（）首页
 
-sms（）开启短信通知
+2. sms（）开启短信通知
 
-Common/del（）删除
+3. Common/del（）删除
 
-smartwakeup_add（）保存设置
+4. smartwakeup_add（）保存设置

@@ -1,12 +1,13 @@
 # 分销员提成申请记录
 
-tixianapply（）首页
+1. tixianapply（）首页
 
-tixian_search（）搜索
+2. tixian_search（）搜索
 
-toker/changetime（）更改时间段
+3. toker/changetime（）更改时间段
 
-bohui（）驳回申请
+4. bohui（）驳回申请
 
-tongguo（）通过申请
+5. tongguo（）通过申请
+
 

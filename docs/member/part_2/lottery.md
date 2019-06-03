@@ -1,8 +1,9 @@
 # 积分抽奖设置
 
-lottery（）首页
+1. lottery（）首页
 
-getcard()获取门店卡券
+2. getcard()获取门店卡券
 
-storeCore（）保存设置
+3. storeCore（）保存设置
+
 

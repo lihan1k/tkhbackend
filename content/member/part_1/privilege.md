@@ -1,5 +1,5 @@
 # 会员等级
 
-privilege（）首页
+1. privilege（）首页
 
-privilege_save() 特权保存
+2. privilege_save() 特权保存
